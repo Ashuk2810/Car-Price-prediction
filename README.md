@@ -14,7 +14,7 @@ Geely Auto's entry into the US market is backed by a robust model using the "car
   automobile consulting company to understand the factor on which the price 
   of cars depends. Specifically, they want to understand the factors affecting 
   the pricing of cars in the American market, since those may be very different 
-  from the Chinese market. The company wants to know:
+  from the Chinese market.  The company wants to know:
   
 ● Which variables are significant in predicting the price of a car. 
 
